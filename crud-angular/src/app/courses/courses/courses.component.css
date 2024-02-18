@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+}
+
+/* .table-head {
+  text-align: justify;
+  padding: 24px;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.table-row {
+  text-align: justify;
+  padding: 24px;
+  font-size: 1rem;
+} */
+
+.loadingIcon {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

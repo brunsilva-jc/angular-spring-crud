@@ -1,0 +1,10 @@
+[
+  {"_id": "1", "name": "Angular", "category": "Frontend development"},
+  {"_id": "2", "name": "Python", "category": "Backend development"},
+  {"_id": "3", "name": "React", "category": "Frontend development"},
+  {"_id": "4", "name": "PHP", "category": "Backend development"},
+  {"_id": "5", "name": "Flutter", "category": "Frontend development"},
+  {"_id": "6", "name": "Spring", "category": "Backend development"},
+  {"_id": "7", "name": "Java", "category": "Backend development"},
+  {"_id": "8", "name": "Django", "category": "Backend development"}
+]

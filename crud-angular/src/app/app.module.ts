@@ -1,6 +1,7 @@
+import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
+import { MatIconModule } from '@angular/material/icon';
 import { MatToolbarModule } from '@angular/material/toolbar';
-import {MatIconModule} from '@angular/material/icon';
 import { BrowserModule, provideClientHydration } from '@angular/platform-browser';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 
@@ -16,6 +17,7 @@ import { AppComponent } from './app.component';
     AppRoutingModule,
     MatToolbarModule,
     MatIconModule,
+    HttpClientModule
   ],
   providers: [
     provideClientHydration(),
